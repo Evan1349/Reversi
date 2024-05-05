@@ -15,9 +15,7 @@ function CalculateWinner(squares, size) {
     });
   });
 
-  // 考慮初始四顆子的情況
-  const initialCount = 0;
-  if (size === 8 && blackCount + whiteCount === size * size - initialCount) {
+  if (size === 8 && blackCount + whiteCount === size * size) {
     if (blackCount > whiteCount) {
       return 'Black';
     } else if (whiteCount > blackCount) {
