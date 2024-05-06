@@ -9,7 +9,10 @@
 4. **獲勝條件**:  棋盤全部下完計算雙方棋子數量。
 
 
+![1714915483136](https://github.com/Evan1349/Reversi/assets/94741456/59f1faeb-104e-4600-ae10-65db60189dab)
 
 
-![Uploading 1714915483136.jpg…]()
+
+
+
 
